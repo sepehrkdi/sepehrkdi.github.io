@@ -12,10 +12,12 @@ canonical: "https://sepehrkdi.github.io/"
 
 # Links
 google_scholar: "https://scholar.google.com/citations?user=bhDhM8MAAAAJ"
+cv_link: ./assets/files/CV_Sepehr_Khodadadi.pdf
 github_link: "https://github.com/sepehrkdi"
 linkedin: "https://linkedin.com/in/sepehr-khodadadi"
 
 # Images
+avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 

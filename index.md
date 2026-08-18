@@ -13,7 +13,7 @@ develops structural machine unlearning: forget-conditioned subnetworks that
 isolate the parameters encoding what a model must forget, evaluated under
 membership-inference (MIA) and relearning attacks. I am sole first author of
 TRAIL, a multi-metric unlearning-evaluation library
-accepted at the ECCV 2026 Workshop on Machine Unlearning.
+accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME).
 Before Genoa, I completed a B.Sc. in Computer Engineering at Isfahan
 University of Technology.
 
@@ -26,9 +26,9 @@ University of Technology.
 
 ## News
 
-- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop on Machine Unlearning — my first accepted publication, as sole first author.
+- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME) — my first accepted publication, as sole first author.
 - **[Jul. 2026]** Released [ALoG](https://github.com/sepehrkdi/RBVS), a training-free, interpretable-by-design classical pipeline for retinal vessel segmentation on DRIVE.
-- **[Jul. 2026]** First peer-review assignment: serving as a reviewer for an ECCV 2026 workshop.
+- **[Jul. 2026]** First peer-review assignment: serving as a reviewer for the ECCV 2026 FAILED Workshop (Model Debiasing).
 - **[Feb. 2026]** Began my M.Sc. thesis research on machine unlearning at MaLGa, co-supervised with Télécom Paris.
 
 {% include_relative _includes/publications.md %}
