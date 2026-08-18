@@ -1,0 +1,17 @@
+main:
+  - title: "TRAIL: Navigating the Jungle of Machine Unlearning Evaluation"
+    authors: <strong>S. Khodadadi Hosseinabadi</strong>, E. Iakovleva, E. Tartaglione, and V. P. Pastore
+    conference_short: ECCV 2026 Workshop
+    conference: Accepted at the ECCV 2026 Workshop on Machine Unlearning, 2026.
+    notes: Sole first author. Code to be released with the workshop proceedings.
+
+  - title: Forget-Conditioned Subnetworks for Machine Unlearning
+    authors: <strong>S. Khodadadi Hosseinabadi</strong> et al.
+    conference: Manuscript in preparation.
+
+  - title: Application of the Brain Drain Optimization Algorithm to the N-Queens Problem
+    authors: S. Ramezani Jolfaei and <strong>S. Khodadadi Hossein Abadi</strong>
+    conference_short: arXiv
+    conference: arXiv preprint arXiv:2504.18953, 2025.
+    pdf: https://arxiv.org/pdf/2504.18953
+    page: https://arxiv.org/abs/2504.18953
