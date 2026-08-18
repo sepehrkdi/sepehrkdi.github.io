@@ -1,9 +1,12 @@
+# Thumbnails: drop an image at ./assets/img/<name>.png (or .jpg) and add to the
+# entry:   image: ./assets/img/<name>.png
 main:
   - title: "TRAIL: Navigating the Jungle of Machine Unlearning Evaluation"
     authors: <strong>S. Khodadadi Hosseinabadi</strong>, E. Iakovleva, E. Tartaglione, and V. P. Pastore
     conference_short: ECCV 2026 U&ME
     conference: Accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), 2026.
-    notes: Sole first author. Code to be released with the workshop proceedings.
+    code: https://github.com/sepehrkdi/trail
+    notes: Sole first author.
 
   - title: Forget-Conditioned Subnetworks for Machine Unlearning
     authors: <strong>S. Khodadadi Hosseinabadi</strong> et al.
