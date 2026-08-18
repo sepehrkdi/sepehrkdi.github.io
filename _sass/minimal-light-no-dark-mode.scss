@@ -169,8 +169,11 @@ papertitle {
 
       .image.avatar img {
         border-radius: 100%;
-        width: 45%;
-        padding: 20px;
+        // NOTE: this is the rule that actually sizes the photo — the layout's
+        // <header> has no id, so the "#header .image.avatar" width rule below
+        // never matches. Percentage is relative to the 232px header column.
+        width: 90%;
+        padding: 10px;
         // border: 1px solid #ddd;
         // padding: 3px;
         // box-shadow: 0 -1px 5px 1px rgba(200, 200, 200, 0.3);
