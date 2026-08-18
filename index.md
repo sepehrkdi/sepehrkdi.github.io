@@ -5,10 +5,21 @@ layout: homepage
 ## About Me
 
 I am an M.Sc. student in Data Science and Engineering (AI track) at the
-University of Genoa, ranked 1st among 130 students with a 30.2/30 GPA. My
-thesis — *Machine Unlearning for Model Debiasing* — is a collaboration between
-MaLGa (Machine Learning Genoa Center) and Télécom Paris, advised by
-Prof. Vito Paolo Pastore and Prof. Enzo Tartaglione.
+University of Genoa, ranked 1st among 130 students with a 30.2/30 GPA. I work
+at the intersection of machine unlearning, data privacy, and trustworthy
+machine learning at MaLGa (Machine Learning Genoa Center), in collaboration
+with Télécom Paris, advised by
+[Prof. Vito Paolo Pastore](https://rubrica.unige.it/personale/UkNEWVts/) and
+[Prof. Enzo Tartaglione](https://enzotarta.github.io/).
+
+I am driven by one goal: making trained models controllable — so that what
+they memorize and expose can be measured, bounded, and removed, and those
+guarantees verifiable. For my thesis, *Machine Unlearning for Model
+Debiasing*, I build structural unlearning methods and evaluate them under
+membership-inference (MIA) and relearning attacks. That work led to
+[TRAIL](https://github.com/sepehrkdi/trail), an open evaluation library and
+my first sole-first-author paper,
+accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME).
 
 ## Research Interests
 
