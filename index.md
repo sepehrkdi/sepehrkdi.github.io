@@ -9,7 +9,7 @@ University of Genoa, ranked 1st among 130 students with a 30.2/30 GPA. I work
 at the intersection of machine unlearning, data privacy, and trustworthy
 machine learning at MaLGa (Machine Learning Genoa Center), in collaboration
 with Télécom Paris, advised by
-[Prof. Vito Paolo Pastore](https://rubrica.unige.it/personale/UkNEWVts) and
+[Prof. Vito Paolo Pastore](https://www.linkedin.com/in/vito-paolo-pastore-a5105aa8/) and
 [Prof. Enzo Tartaglione](https://enzotarta.github.io/).
 
 I am driven by one goal: making trained models controllable — so that what
