@@ -13,13 +13,12 @@ with Télécom Paris, advised by
 [Prof. Enzo Tartaglione](https://enzotarta.github.io/).
 
 I am driven by one goal: making trained models controllable, so that what
-they memorize and expose can be measured, bounded, and removed, and those
+they memorize and expose can be measured, bounded, and removed, while making those
 guarantees verifiable. For my thesis, *Machine Unlearning for Model
-Debiasing*, I build structural unlearning methods and evaluate them under
-membership-inference (MIA) and relearning attacks. That work led to
-[TRAIL](https://github.com/sepehrkdi/trail), an open evaluation library and
-my first sole-first-author paper,
-accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME).
+Debiasing*, I implemented unlearning methods and evaluated them under
+evolving criteria of this literature. That work led to
+[TRAIL](https://github.com/sepehrkdi/trail), an open-source evaluation library and
+my first first-author paper:).
 
 ## Research Interests
 
@@ -27,9 +26,9 @@ Machine unlearning, data privacy, and trustworthy machine learning.
 
 ## News
 
-- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), my first accepted publication as sole first author.
-- **[Jul. 2026]** Released [ALoG](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog), a training-free, interpretable-by-design classical pipeline for retinal vessel segmentation on DRIVE.
+- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), my first accepted publication.
 - **[Jul. 2026]** First peer-review assignment: serving as a reviewer for the ECCV 2026 FAILED Workshop (Model Debiasing).
+- **[Jun. 2026]** Released [ALoG](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog), a training-free, interpretable-by-design pipeline for retinal vessel segmentation on DRIVE dataset.
 - **[Feb. 2026]** Began my M.Sc. thesis research on machine unlearning at MaLGa, co-supervised with Télécom Paris.
 
 {% include_relative _includes/publications.md %}
