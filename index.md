@@ -12,7 +12,7 @@ with Télécom Paris, advised by
 [Prof. Vito Paolo Pastore](https://www.linkedin.com/in/vito-paolo-pastore-a5105aa8/) and
 [Prof. Enzo Tartaglione](https://enzotarta.github.io/).
 
-I am driven by one goal: making trained models controllable — so that what
+I am driven by one goal: making trained models controllable, so that what
 they memorize and expose can be measured, bounded, and removed, and those
 guarantees verifiable. For my thesis, *Machine Unlearning for Model
 Debiasing*, I build structural unlearning methods and evaluate them under
@@ -27,7 +27,7 @@ Machine unlearning, data privacy, and trustworthy machine learning.
 
 ## News
 
-- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME) — my first accepted publication, as sole first author.
+- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), my first accepted publication as sole first author.
 - **[Jul. 2026]** Released [ALoG](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog), a training-free, interpretable-by-design classical pipeline for retinal vessel segmentation on DRIVE.
 - **[Jul. 2026]** First peer-review assignment: serving as a reviewer for the ECCV 2026 FAILED Workshop (Model Debiasing).
 - **[Feb. 2026]** Began my M.Sc. thesis research on machine unlearning at MaLGa, co-supervised with Télécom Paris.
@@ -36,10 +36,10 @@ Machine unlearning, data privacy, and trustworthy machine learning.
 
 ## Projects
 
-- [**TRAIL — machine-unlearning evaluation library**](https://github.com/sepehrkdi/trail): reproducible, protocol-only evaluation of unlearned checkpoints; the library behind the U&ME workshop paper.
-- [**Multi-agent clinical decision support**](https://github.com/sepehrkdi/multi-agent-clinical-decision-support): BDI multi-agent system — chest X-ray imaging agents and report-text NLP agents fused by a Prolog consensus engine (graduate course project; not for clinical use).
-- [**ALoG — interpretable retinal vessel segmentation**](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog): training-free, interpretable-by-design classical pipeline on DRIVE.
+- [**TRAIL (machine-unlearning evaluation library)**](https://github.com/sepehrkdi/trail): reproducible, protocol-only evaluation of unlearned checkpoints; the library behind the U&ME workshop paper.
+- [**Multi-agent clinical decision support**](https://github.com/sepehrkdi/multi-agent-clinical-decision-support): BDI multi-agent system fusing chest X-ray imaging agents and report-text NLP agents under a Prolog consensus engine (graduate course project; not for clinical use).
+- [**ALoG (interpretable retinal vessel segmentation)**](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog): training-free, interpretable-by-design classical pipeline on DRIVE.
 - [**Attention U-Net for retinal vessel segmentation**](https://github.com/sepehrkdi/retinal-vessel-segmentation-attention-unet): hybrid Dice+Focal loss after densely augmenting 20 images into 63,800 patches.
 - [**3D geological modeling**](https://github.com/sepehrkdi/3d-geological-modeling): rock-mass slicing, optimal block extraction, and volumetric analysis (Trimesh, Open3D).
-- [**Shifting Spotlights — media-bias visualization**](https://github.com/sepehrkdi/MediaBiasVisualization): D3.js scrollytelling on global conflicts and media attention ([live demo](https://sepehrkdi.github.io/MediaBiasVisualization/)).
+- [**Shifting Spotlights (media-bias visualization)**](https://github.com/sepehrkdi/MediaBiasVisualization): D3.js scrollytelling on global conflicts and media attention ([live demo](https://sepehrkdi.github.io/MediaBiasVisualization/)).
 - [**AR gallery presenter**](https://github.com/sepehrkdi/ar-gallery-presenter): Unity/Vuforia app that anchors a 3-D presenter beneath recognized paintings.

@@ -6,11 +6,6 @@ main:
     conference_short: ECCV 2026 U&ME
     conference: Accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), 2026.
     code: https://github.com/sepehrkdi/trail
-    notes: Sole first author.
-
-  - title: Forget-Conditioned Subnetworks for Machine Unlearning
-    authors: <strong>S. Khodadadi Hosseinabadi</strong> et al.
-    conference: Manuscript in preparation.
 
   - title: Application of the Brain Drain Optimization Algorithm to the N-Queens Problem
     authors: S. Ramezani Jolfaei and <strong>S. Khodadadi Hossein Abadi</strong>
