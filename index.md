@@ -37,6 +37,7 @@ Machine unlearning, data privacy, and trustworthy machine learning.
 ## Projects
 
 - [**TRAIL — machine-unlearning evaluation library**](https://github.com/sepehrkdi/trail): reproducible, protocol-only evaluation of unlearned checkpoints; the library behind the U&ME workshop paper.
+- [**Multi-agent clinical decision support**](https://github.com/sepehrkdi/multi-agent-clinical-decision-support): BDI multi-agent system — chest X-ray imaging agents and report-text NLP agents fused by a Prolog consensus engine (graduate course project; not for clinical use).
 - [**ALoG — interpretable retinal vessel segmentation**](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog): training-free, interpretable-by-design classical pipeline on DRIVE.
 - [**Attention U-Net for retinal vessel segmentation**](https://github.com/sepehrkdi/retinal-vessel-segmentation-attention-unet): hybrid Dice+Focal loss after densely augmenting 20 images into 63,800 patches.
 - [**3D geological modeling**](https://github.com/sepehrkdi/3d-geological-modeling): rock-mass slicing, optimal block extraction, and volumetric analysis (Trimesh, Open3D).
