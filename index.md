@@ -26,7 +26,7 @@ Machine unlearning, data privacy, and trustworthy machine learning.
 
 ## News
 
-- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), my first accepted publication.
+- **[Aug. 2026]** Our paper *TRAIL: Navigating the Jungle of Machine Unlearning Evaluation* is accepted as an oral presentation at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), my first accepted publication.
 - **[Jul. 2026]** First peer-review assignment: serving as a reviewer for the ECCV 2026 FAILED Workshop (Model Debiasing).
 - **[Jun. 2026]** Released [ALoG](https://github.com/sepehrkdi/retinal-vessel-segmentation-alog), a training-free, interpretable-by-design pipeline for retinal vessel segmentation on DRIVE dataset.
 - **[Feb. 2026]** Began my M.Sc. thesis research on machine unlearning at MaLGa, co-supervised with Télécom Paris.
