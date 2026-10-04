@@ -5,6 +5,7 @@ main:
     authors: <strong>S. Khodadadi Hosseinabadi</strong>, E. Iakovleva, E. Tartaglione, and V. P. Pastore
     conference_short: ECCV 2026 U&ME
     conference: Accepted (oral presentation) at the ECCV 2026 Workshop and Challenge on Unlearning and Model Editing (U&ME), 2026.
+    openreview: https://openreview.net/forum?id=ylRZQCBAbf
     code: https://github.com/sepehrkdi/trail
     notes: Oral presentation
 
