@@ -5,7 +5,7 @@ layout: homepage
 ## About Me
 
 I am an M.Sc. student in Data Science and Engineering (AI track) at the
-University of Genoa, ranked 1st among 130 students with a 30.2/30 GPA. I work
+University of Genoa, with a 30.2/30 GPA (lode counted as 31). I work
 at the intersection of machine unlearning, data privacy, and trustworthy
 machine learning at MaLGa (Machine Learning Genoa Center), in collaboration
 with Télécom Paris, advised by
